@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# 反编译工具为第三方二进制，不纳入版本控制
+# 请自行获取 unveilr.exe 并放入 tools/ 目录
+tools/unveilr.exe
