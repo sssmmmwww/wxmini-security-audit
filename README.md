@@ -118,7 +118,7 @@ wxmini-security-audit/
 将本项目克隆或下载到本地，放入 Claude Code 的 Skill 目录即可：
 
 ```bash
-git clone https://github.com/yourname/wxmini-security-audit.git
+git clone https://github.com/sssmmmwww/wxmini-security-audit.git
 ```
 
 克隆后需自行获取 `unveilr.exe`（微信小程序反编译工具）并放入 `tools/` 目录：
